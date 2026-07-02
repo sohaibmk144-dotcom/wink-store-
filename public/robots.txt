@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wink-store.vercel.app/sitemap.xml
